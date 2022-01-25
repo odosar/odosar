@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @odosar
 - 👀 I’m interested in data 
 - 🌱 I’m currently learning data analytics
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me odosa.iyamuosa@gmail.com
 
 <!---
