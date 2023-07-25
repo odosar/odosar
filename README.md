@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @odosar
-- 👀 I’m interested in data 
-- 🌱 I’m currently learning data analytics
-- 📫 How to reach me odosa.iyamuosa@gmail.com
+- 👋 Hi, I’m Yosa
+- 👀 I’m a crypto bro 
+
 
 <!---
 odosar/odosar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
